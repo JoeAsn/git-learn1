@@ -1,2 +1,2 @@
-Day 1 of Learning Git and Github
-Making a change after satging but not comminting.
+Day 1 of Learning Git and GitHub
+Making a change after satging but not committing.
