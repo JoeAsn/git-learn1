@@ -1,0 +1,3 @@
+# Environemnt variables
+*.env
+.env
