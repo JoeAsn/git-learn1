@@ -1,5 +1,4 @@
 <<<<<<< HEAD
 Day 1 of Learning Git and GitHub
 Making a change after staging but not committing.
-Added this text by mistake.
 
