@@ -2,3 +2,5 @@ Day 1 of Learning Git and GitHub
 Making a change after staging but not committing.
 Adding a cleanup .
 added a branch to exercise a pull request.
+Learning a stashing in git branches
+add the second commit to the stashing branch
